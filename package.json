@@ -20,10 +20,10 @@
   },
   "homepage": "https://github.com/nicholas-b-carter/hamilton#readme",
   "dependencies": {
-    "boom": "^3.1.2",
+    "boom": "^4.2.0",
     "dotenv": "^2.0.0",
-    "hapi": "^13.3.0",
-    "joi": "^8.0.5",
+    "hapi": "^16.0.1",
+    "joi": "^10.0.6",
     "mongojs": "^2.3.0"
   },
   "devDependencies": {
